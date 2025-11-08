@@ -25,14 +25,14 @@ export default defineConfig({
       },
     },
     manifest: {
-      name: 'Calculadora de resistencia',
-      short_name: 'REsistencias',
-      description: 'aplicacion para caluclar la resistencia',
+      name: 'Congreso',
+      short_name: '',
+      description: 'aCongreso de tecnologias TI',
       theme_color: '#ffffff',
       icons: [
         {
           "purpose": "maskable",
-          "sizes": "48x48",
+          "sizes": "224x225",
           "src": "favicon.png",
           "type": "image/png"
         },
